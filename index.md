@@ -1,6 +1,6 @@
 ## Welcome to Fong Wang's Page
 
-Hello! I am Dong Wang (王栋). I am a second-year master in [Xidian University](https://en.xidian.edu.cn/). I also obtained my Bachelor degree in Xidian University. 
+Hello! I am Dong Wang. I am a second-year master in [Xidian University](https://en.xidian.edu.cn/). I also obtained my Bachelor degree in Xidian University. 
 
 
 
