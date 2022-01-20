@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Fong Wang's Page
 
-You can use the [editor on GitHub](https://github.com/DongWanginxdu/DongWang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Dong Wang (王栋). I am a second-year master in [Xidian University](https://en.xidian.edu.cn/). I also obtained my Bachale degree in Xidian University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
